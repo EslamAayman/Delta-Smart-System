@@ -14,4 +14,4 @@ The contact form currently validates fields in the browser and confirms that the
 - `styles.css` — responsive styles and reduced-motion support
 - `script.js` — mobile navigation, scroll reveals and client-side validation
 - `favicon.svg` — temporary geometric brand mark, replaceable with the official logo
-- `robots.txt` and `sitemap.xml` — domain placeholders to update before launch
+- `robots.txt` and `sitemap.xml` — domain placeholders to update before launch.
